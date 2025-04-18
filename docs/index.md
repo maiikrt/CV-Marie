@@ -9,7 +9,7 @@
 **Date de naissance :** *15 mai 2006*  
 **Nationalité :** *Française*  
 
-![Photo de Marie](../assets/photo.jpg)
+![Photo](../images/Photo.jpg)
 
 ---
 
