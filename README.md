@@ -19,10 +19,9 @@ Ce projet a pour but :
 
 | Fichier / Dossier | Description |
 |-------------------|-------------|
-| `docs/index.md`   | Fichier principal contenant le CV en Markdown |
-| `assets/`         | Contient la photo de profil utilisée dans le CV |
+| `CV/index.md`   | Fichier principal contenant le CV en Markdown |
+| `images/`         | Contient la photo de profil utilisée dans le CV |
 | `README.md`       | Présentation du projet |
-| `.gitignore`      | Fichier pour ignorer certains fichiers/dossiers |
 | `LICENSE`         | Licence du projet |
 | `.gitattributes`  | Encodage & gestion Git |
 
