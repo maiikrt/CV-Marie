@@ -1,73 +1,66 @@
-# CV-Marie
-# Lievan - Développeur & Designer UI/UX
+# 💼 CV - Marie Eckert-Bergerin
 
-📍 France  
-📧 lievan.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/lievan) | [GitHub](https://github.com/tonpseudo) | [Portfolio](https://tonsite.com)
+Bienvenue sur le dépôt GitHub contenant le CV de **Marie Eckert-Bergerin**, réalisé dans le cadre d’un projet pédagogique.
 
----
-
-## 🧠 À propos
-
-Je suis un développeur passionné, spécialisé dans le design UI/UX et la création d’expériences numériques fluides.  
-Je travaille avec des technologies variées, notamment HTML, CSS, JavaScript, et je développe aussi des interfaces sur Roblox avec M5Stack ou du markdown documenté.
+Ce projet a pour but :
+- De se familiariser avec le langage **Markdown**
+- D’utiliser **Git et GitHub**
+- De déployer un site web **statique** via **GitHub Pages**
 
 ---
 
-## 💼 Expériences professionnelles
+## 🔗 Voir le site statique
 
-### 🔧 Freelance — UI/UX Designer
-📆 2023 — Aujourd'hui  
-🎯 Création d’interfaces pour des applications, des jeux Roblox et des sites web.  
-✅ Réalisations :
-- Design complet de dashboards interactifs
-- Interfaces pour projets Roblox (HiddenDevs)
-- Collaboration avec développeurs & clients
+👉 [Cliquez ici pour consulter le CV en ligne](https://tonpseudo.github.io/nom-du-repo/)
 
-### 🎓 Étudiant en informatique
-📆 2022 — Aujourd'hui  
-📍 Université de [Nom de l'établissement]  
-👨‍💻 Projets réalisés :
-- Développement de firmwares personnalisés
-- Utilisation de GitHub pour documenter et héberger des projets
+> Remplace `tonpseudo` par ton identifiant GitHub et `nom-du-repo` par le nom exact du dépôt.
 
 ---
 
-## 🛠️ Compétences
+## 📄 Contenu du dépôt
 
-| Développement | UI/UX Design       | Outils & Techs     |
-|---------------|--------------------|--------------------|
-| HTML, CSS, JS | Figma, Adobe XD    | Git, GitHub        |
-| Markdown      | Responsive Design  | GitHub Pages       |
-| Lua, M5Stack  | Design Systems     | VS Code, Notepad++ |
-
----
-
-## 📚 Formations
-
-**Licence Informatique**  
-Université de [Nom] — 2022 à aujourd’hui
-
-**Formation UI/UX (en ligne)**  
-Coursera & Udemy — 2023
+| Fichier / Dossier | Description |
+|-------------------|-------------|
+| `docs/index.md`   | Fichier principal contenant le CV en Markdown |
+| `assets/`         | Contient la photo de profil utilisée dans le CV |
+| `README.md`       | Présentation du projet (vous êtes ici) |
+| `.gitignore`      | Fichier de configuration Git |
+| `LICENSE`         | Licence du projet |
+| `.gitattributes`  | Gestion de l'encodage Git |
 
 ---
 
-## 🖼️ Aperçu
+## 🧾 À propos du CV
 
-![Photo pro](C:\Users\ESSAI\Documents\GitHub\CV-Marie\images\IMG_1862.jpg)
+### 🎓 Scolarité
+- 2012-2017 : École primaire Armand Cassagne (Melun)
+- 2017-2019 : Collège Jacques Amyot (Melun)
+- 2019-2023 : Lycée Jacques Amyot (voie générale)
+- 2023-2024 : Terminale au lycée Jacques Amyot
+
+### 🎓 Diplômes
+- Brevet (mention Très Bien)
+- SNU (Phases 1 & 2)
+- BAFA (théorique et pratique validées)
+
+### 🎯 Loisirs
+- Volley-ball (depuis 2016)
+- Lecture, cinéma
+- Musique (pratique de la basse)
+
+### 📞 Contact
+- Téléphone : 07 67 15 58 02
+- Email : marie.eckertbergerin@gmail.com
+- Adresse : 11 rue Doré, 77000 Melun
 
 ---
 
-## 🔗 Liens utiles
+## ✅ Technologies utilisées
 
-- [Voir mon dépôt GitHub](https://github.com/tonpseudo/nom-du-repo)
-- [CV en ligne (GitHub Pages)](https://tonpseudo.github.io/nom-du-repo)
+- Markdown
+- Git / GitHub
+- GitHub Pages
 
 ---
 
-## 📝 Informations complémentaires
-
-Je suis curieux, créatif et toujours à la recherche de nouveaux défis.  
-N'hésitez pas à me contacter pour une collaboration ou un projet passionnant !
-
+**Projet réalisé à des fins pédagogiques - Avril 2025**
