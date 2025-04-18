@@ -1,73 +1,67 @@
-# CV-Marie
-# Lievan - Développeur & Designer UI/UX
-
-📍 France  
-📧 lievan.email@example.com  
-💼 [LinkedIn](https://linkedin.com/in/lievan) | [GitHub](https://github.com/tonpseudo) | [Portfolio](https://tonsite.com)
+# 💼 CV - Marie Eckert-Bergerin
 
 ---
 
-## 🧠 À propos
+## 📍 Informations personnelles
 
-Je suis un développeur passionné, spécialisé dans le design UI/UX et la création d’expériences numériques fluides.  
-Je travaille avec des technologies variées, notamment HTML, CSS, JavaScript, et je développe aussi des interfaces sur Roblox avec M5Stack ou du markdown documenté.
+**Ville :** *Melun*  
+**Âge :** *18 ans*  
+**Date de naissance :** *15 mai 2006*  
+**Nationalité :** *Française*  
 
----
-
-## 💼 Expériences professionnelles
-
-### 🔧 Freelance — UI/UX Designer
-📆 2023 — Aujourd'hui  
-🎯 Création d’interfaces pour des applications, des jeux Roblox et des sites web.  
-✅ Réalisations :
-- Design complet de dashboards interactifs
-- Interfaces pour projets Roblox (HiddenDevs)
-- Collaboration avec développeurs & clients
-
-### 🎓 Étudiant en informatique
-📆 2022 — Aujourd'hui  
-📍 Université de [Nom de l'établissement]  
-👨‍💻 Projets réalisés :
-- Développement de firmwares personnalisés
-- Utilisation de GitHub pour documenter et héberger des projets
+![Photo de Marie](../assets/photo.jpg)
 
 ---
 
-## 🛠️ Compétences
+## 🎓 Scolarité
 
-| Développement | UI/UX Design       | Outils & Techs     |
-|---------------|--------------------|--------------------|
-| HTML, CSS, JS | Figma, Adobe XD    | Git, GitHub        |
-| Markdown      | Responsive Design  | GitHub Pages       |
-| Lua, M5Stack  | Design Systems     | VS Code, Notepad++ |
-
----
-
-## 📚 Formations
-
-**Licence Informatique**  
-Université de [Nom] — 2022 à aujourd’hui
-
-**Formation UI/UX (en ligne)**  
-Coursera & Udemy — 2023
+| Période       | Établissement / Détail |
+|---------------|------------------------|
+| 2012 - 2017   | Scolarisée à l’école primaire **Armand Cassagne** à *Melun* |
+| 2017 - 2019   | Scolarisée au collège **Jacques Amyot** à *Melun* |
+| 2019 - 2023   | Lycée **Jacques Amyot**, voie générale à *Melun* |
+| 2023 - 2024   | Élève de terminale au lycée **Jacques Amyot** à *Melun* |
 
 ---
 
-## 🖼️ Aperçu
+## 🎓 Diplômes
 
-![Photo pro](C:\Users\ESSAI\Documents\GitHub\CV-Marie\images\IMG_1862.jpg)
+- ⭐ **Diplôme National du Brevet**  
+  *Mention très bien*
+
+- ⭐ **Diplômée du Service National Universel**  
+  *Phases 1 et 2 accomplies*
+
+- ⭐ **BAFA - Phase théorique validée**  
+  *Session juillet 2023 avec la Ligue77*
+
+- ⭐ **BAFA - Phase pratique validée**  
+  *Février-Avril 2024*  
+  *Centre de loisirs de Vaux le Pénil (77)*
 
 ---
 
-## 🔗 Liens utiles
+## 🎯 Loisirs
 
-- [Voir mon dépôt GitHub](https://github.com/tonpseudo/nom-du-repo)
-- [CV en ligne (GitHub Pages)](https://tonpseudo.github.io/nom-du-repo)
+| Activité             | Détail                          |
+|----------------------|---------------------------------|
+| ⭐ **Volley-ball**    | Club de La Rochette (*depuis 2016*) |
+| ⭐ **Lecture**        | —                               |
+| ⭐ **Cinéma**         | —                               |
+| ⭐ **Musique**        | Pratique de la **basse**        |
 
 ---
 
-## 📝 Informations complémentaires
+## 📞 Contact
 
-Je suis curieux, créatif et toujours à la recherche de nouveaux défis.  
-N'hésitez pas à me contacter pour une collaboration ou un projet passionnant !
+- **Téléphone :** 07 67 15 58 02  
+- **Email :** [marie.eckertbergerin@gmail.com](mailto:marie.eckertbergerin@gmail.com)  
+- **Adresse :**  
+  11 rue Doré  
+  77000 *Melun*
+
+---
+
+*Document rédigé en Markdown dans le cadre d’un projet GitHub Pages.*
+
 
