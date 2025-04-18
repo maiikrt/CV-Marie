@@ -8,9 +8,10 @@
 **Âge :** *18 ans*  
 **Date de naissance :** *15 mai 2006*  
 **Nationalité :** *Française*  
+**Statut :** *Étudiante*  
+**Adresse :** *172 rue des Vignes*
 
-<img src="../images/Photo.jpg" alt="Photo" width="150"/>
-
+<img src="../assets/photo.jpg" alt="Photo de Marie" width="150" style="border-radius: 8px;"/>
 
 ---
 
@@ -21,24 +22,21 @@
 | 2012 - 2017   | Scolarisée à l’école primaire **Armand Cassagne** à *Melun* |
 | 2017 - 2019   | Scolarisée au collège **Jacques Amyot** à *Melun* |
 | 2019 - 2023   | Lycée **Jacques Amyot**, voie générale à *Melun* |
-| 2023 - 2024   | Élève de terminale au lycée **Jacques Amyot** à *Melun* |
+| 2023 - 2024   | Terminale au lycée **Jacques Amyot** à *Melun* |
+| 2024 - 2025   | Université **Sorbonne Nouvelle - Paris III**, Licence de Lettres Modernes |
 
 ---
 
 ## 🎓 Diplômes
 
-- ⭐ **Diplôme National du Brevet**  
-  *Mention très bien*
+- ⭐ **Diplôme National du BAC**  
+  *Mention assez bien*
 
 - ⭐ **Diplômée du Service National Universel**  
   *Phases 1 et 2 accomplies*
 
-- ⭐ **BAFA - Phase théorique validée**  
-  *Session juillet 2023 avec la Ligue77*
-
-- ⭐ **BAFA - Phase pratique validée**  
-  *Février-Avril 2024*  
-  *Centre de loisirs de Vaux le Pénil (77)*
+- ⭐ **BAFA complet validé**  
+  *Théorique, pratique et stage final validés — Octobre 2024*
 
 ---
 
@@ -58,11 +56,7 @@
 - **Téléphone :** 07 67 15 58 02  
 - **Email :** [marie.eckertbergerin@gmail.com](mailto:marie.eckertbergerin@gmail.com)  
 - **Adresse :**  
-  11 rue Doré  
+  172 rue des Vignes  
   77000 *Melun*
 
 ---
-
-*Document rédigé en Markdown dans le cadre d’un projet GitHub Pages.*
-
-

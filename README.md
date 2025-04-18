@@ -17,50 +17,60 @@ Ce projet a pour but :
 
 ---
 
-## 📄 Contenu du dépôt
+## 📁 Contenu du dépôt
 
 | Fichier / Dossier | Description |
 |-------------------|-------------|
 | `docs/index.md`   | Fichier principal contenant le CV en Markdown |
 | `assets/`         | Contient la photo de profil utilisée dans le CV |
-| `README.md`       | Présentation du projet (vous êtes ici) |
-| `.gitignore`      | Fichier de configuration Git |
+| `README.md`       | Présentation du projet |
+| `.gitignore`      | Fichier pour ignorer certains fichiers/dossiers |
 | `LICENSE`         | Licence du projet |
-| `.gitattributes`  | Gestion de l'encodage Git |
+| `.gitattributes`  | Encodage & gestion Git |
 
 ---
 
-## 🧾 À propos du CV
+## 🧾 Résumé du CV
 
-### 🎓 Scolarité
-- 2012-2017 : École primaire Armand Cassagne (Melun)
-- 2017-2019 : Collège Jacques Amyot (Melun)
-- 2019-2023 : Lycée Jacques Amyot (voie générale)
-- 2023-2024 : Terminale au lycée Jacques Amyot
+### 👩‍🎓 Parcours scolaire
 
-### 🎓 Diplômes
-- Brevet (mention Très Bien)
-- SNU (Phases 1 & 2)
-- BAFA (théorique et pratique validées)
+- **2012-2017** : École Armand Cassagne (Melun)
+- **2017-2019** : Collège Jacques Amyot (Melun)
+- **2019-2023** : Lycée Jacques Amyot (voie générale)
+- **2023-2024** : Terminale, lycée Jacques Amyot
+- **2024-2025** : Licence de Lettres Modernes, **Sorbonne Nouvelle - Paris 3**
+
+### 🏆 Diplômes
+
+- Diplôme National du BAC *(mention assez bien)*
+- Service National Universel *(phases 1 & 2 validées)*
+- **BAFA complet validé** *(octobre 2024)*
+
+### 📌 Infos personnelles
+
+- **Âge :** 18 ans  
+- **Adresse :** 172 rue des Vignes, 77000 Melun  
+- **Statut :** Étudiante  
+- **Nationalité :** Française
 
 ### 🎯 Loisirs
+
 - Volley-ball (depuis 2016)
-- Lecture, cinéma
-- Musique (pratique de la basse)
+- Lecture
+- Cinéma
+- Pratique de la basse
 
 ### 📞 Contact
-- Téléphone : 07 67 15 58 02
-- Email : marie.eckertbergerin@gmail.com
-- Adresse : 11 rue Doré, 77000 Melun
+
+- 07 67 15 58 02  
+- marie.eckertbergerin@gmail.com
 
 ---
 
-## ✅ Technologies utilisées
+## ⚙️ Technologies utilisées
 
 - Markdown
 - Git / GitHub
 - GitHub Pages
 
 ---
-
-**Projet réalisé à des fins pédagogiques - Avril 2025**
