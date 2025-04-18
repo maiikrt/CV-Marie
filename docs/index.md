@@ -57,6 +57,6 @@
 - **Email :** [marie.eckertbergerin@gmail.com](mailto:marie.eckertbergerin@gmail.com)  
 - **Adresse :**  
   172 rue des Vignes  
-  77000 *Melun*
+  77000 *Vaux-le-pénil*
 
 ---

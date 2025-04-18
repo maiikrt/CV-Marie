@@ -1,6 +1,6 @@
 # 💼 CV - Marie Eckert-Bergerin
 
-Bienvenue sur le dépôt GitHub contenant le CV de **Marie Eckert-Bergerin**, réalisé dans le cadre d’un projet pédagogique.
+Bienvenue sur le dépôt GitHub contenant mon CV **Marie Eckert-Bergerin**, réalisé dans le cadre d’un projet pédagogique.
 
 Ce projet a pour but :
 - De se familiariser avec le langage **Markdown**
@@ -11,9 +11,7 @@ Ce projet a pour but :
 
 ## 🔗 Voir le site statique
 
-👉 [Cliquez ici pour consulter le CV en ligne](https://tonpseudo.github.io/nom-du-repo/)
-
-> Remplace `tonpseudo` par ton identifiant GitHub et `nom-du-repo` par le nom exact du dépôt.
+👉 [Cliquez ici pour consulter le CV en ligne](https://maiikrt.github.io/CV-Marie/)
 
 ---
 
@@ -38,7 +36,7 @@ Ce projet a pour but :
 - **2017-2019** : Collège Jacques Amyot (Melun)
 - **2019-2023** : Lycée Jacques Amyot (voie générale)
 - **2023-2024** : Terminale, lycée Jacques Amyot
-- **2024-2025** : Licence de Lettres Modernes, **Sorbonne Nouvelle - Paris 3**
+- **2024-2025** : Licence de Lettres Modernes, **Sorbonne Nouvelle - Paris III**
 
 ### 🏆 Diplômes
 
@@ -49,7 +47,7 @@ Ce projet a pour but :
 ### 📌 Infos personnelles
 
 - **Âge :** 18 ans  
-- **Adresse :** 172 rue des Vignes, 77000 Melun  
+- **Adresse :** 172 rue des Vignes, 77000 Vaux-le-pénil 
 - **Statut :** Étudiante  
 - **Nationalité :** Française
 
