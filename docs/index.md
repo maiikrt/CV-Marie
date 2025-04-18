@@ -9,7 +9,8 @@
 **Date de naissance :** *15 mai 2006*  
 **Nationalité :** *Française*  
 
-![Photo](../images/Photo.jpg)
+<img src="../images/Photo.jpg" alt="Photo" width="150"/>
+
 
 ---
 
