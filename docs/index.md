@@ -11,7 +11,7 @@
 **Statut :** *Étudiante*  
 **Adresse :** *172 rue des Vignes*
 
-<img src="../assets/photo.jpg" alt="Photo de Marie" width="150" style="border-radius: 8px;"/>
+<img src="../images/Photo.jpg" alt="Photo" width="150" style="border-radius: 8px;"/>
 
 ---
 
