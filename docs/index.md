@@ -1,5 +1,5 @@
 # CV-Marie
- # Lievan - Développeur & Designer UI/UX
+# Lievan - Développeur & Designer UI/UX
 
 📍 France  
 📧 lievan.email@example.com  
