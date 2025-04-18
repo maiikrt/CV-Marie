@@ -1,48 +1,41 @@
-# CV-Marie
-# Justification du Projet : CV en Markdown
-
-## 📅 Objectif
-
-L’objectif de ce projet était de créer un CV personnel en utilisant **Markdown**, puis de le déployer sous la forme d'un site web statique grâce à **GitHub Pages**.
-
-## 🧩 Structure du Projet
-
-Le projet est structuré comme suit :
-
-1. **`README.md`** : Présente brièvement le projet, les technologies utilisées et fournit des liens vers mon profil GitHub, mon portfolio et d'autres informations utiles.
-2. **`docs/index.md`** : Contient le contenu principal de mon CV, rédigé en Markdown, et accessible via GitHub Pages. Ce fichier est le point d'entrée du site.
-3. **`doc.md`** : Ce document, qui explique la structure du projet et les choix réalisés.
-4. **`assets/`** : Dossier contenant une photo de profil utilisée dans le CV.
-
-## ✨ Technologies et Outils Utilisés
-
-- **Markdown** : Langage léger de balisage utilisé pour structurer le contenu de mon CV.
-- **GitHub Pages** : Déployé gratuitement avec GitHub pour héberger mon CV en ligne.
-- **Git** : Pour versionner et maintenir le projet, en utilisant GitHub Desktop pour gérer les commits et les pushs.
-- **Notepad++** : Utilisé pour rédiger et organiser les fichiers Markdown.
-
-## 🎨 Choix de Design
-
-Le design de ce CV est volontairement simple et épuré, mettant l’accent sur les informations professionnelles essentielles : compétences, expériences et formations. J’ai choisi de ne pas surcharger la page et de favoriser la lisibilité avec des titres, des listes et des liens.
-
-- J’ai structuré le CV avec des sections claires : *À propos*, *Compétences*, *Expériences professionnelles*, etc.
-- Le design est adapté pour une consultation sur le web, en restant simple et rapide à charger.
-
-## 🧑‍💻 Processus de Création
-
-1. **Planification** : J’ai commencé par définir les sections de mon CV et choisir les informations à inclure (compétences, formations, expériences).
-2. **Rédaction en Markdown** : J’ai rédigé le contenu dans Notepad++, en utilisant les éléments Markdown pour structurer le texte (titres, listes, liens, etc.).
-3. **Mise en page** : J’ai structuré le fichier `index.md` dans le dossier `docs/` pour que GitHub Pages puisse l’utiliser comme point d'entrée du site.
-4. **Déploiement** : J’ai configuré GitHub Pages pour utiliser le dossier `docs/` comme source et ainsi déployer automatiquement mon CV en ligne.
-
-## 🎯 Résultats
-
-Le résultat final est un CV accessible en ligne, structuré de manière simple et lisible, et déployé grâce à GitHub Pages. Le projet respecte les consignes et permet de montrer mes compétences en développement, en design UI/UX et en gestion de projets sur GitHub.
+# 📚 Documentation du projet – CV de Marie Eckert-Bergerin
 
 ---
 
-## 💡 Conclusion
+## 🎯 Objectif du projet
 
-Ce projet m’a permis de me familiariser avec l’utilisation de Git, GitHub, et GitHub Pages pour déployer un site web statique. J'ai également consolidé mes connaissances en rédaction Markdown, un outil très pratique pour la création de documents structurés et simples à maintenir.
+Ce projet a été réalisé dans le cadre d'un exercice pédagogique. L'objectif est d'apprendre à :
 
-N'hésitez pas à consulter le CV en ligne via [ce lien](https://tonpseudo.github.io/nom-du-repo).
+- Utiliser le langage **Markdown** pour structurer un document.
+- Manipuler un **répertoire Git** à l’aide de **GitHub Desktop**.
+- **Déployer** le contenu sous la forme d’un site web **statique** via **GitHub Pages**.
+- Organiser un dépôt de manière **claire et propre**.
+
+---
+
+## 🗂️ Structure du dépôt
+
+| Élément | Rôle |
+|--------|------|
+| `README.md` | Fichier d'accueil du dépôt : il présente le projet, le lien du site, et résume le contenu du CV. |
+| `docs/index.md` | Le fichier principal contenant le CV au format Markdown. |
+| `docs.md` | Le présent fichier : il explique les choix techniques, outils et mise en forme. |
+| `assets/photo.jpg` | Photo de profil affichée dans le CV. |
+| `.gitignore`, `.gitattributes` | Fichiers de configuration Git |
+| `LICENSE` | Licence du projet |
+
+---
+
+## 🛠️ Choix techniques
+
+### Langage
+
+Le **Markdown** a été utilisé pour sa simplicité et sa lisibilité. C’est un langage léger idéal pour créer des documents structurés sans code complexe.
+
+### Organisation
+
+- Le fichier principal (`index.md`) est placé dans un dossier `docs/` pour correspondre à la convention de GitHub Pages.
+- Les images sont placées dans un dossier `assets/` pour séparer contenu et médias.
+- L’image est insérée avec **balise HTML** afin de contrôler sa taille et l’esthétique :
+  ```html
+  <img src="/assets/photo.jpg" width="150" style="border-radius: 8px;" />
