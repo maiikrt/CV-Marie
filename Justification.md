@@ -18,10 +18,10 @@ Ce projet a été réalisé dans le cadre d'un exercice pédagogique. L'objectif
 | Élément | Rôle |
 |--------|------|
 | `README.md` | Fichier d'accueil du dépôt : il présente le projet, le lien du site, et résume le contenu du CV. |
-| `docs/index.md` | Le fichier principal contenant le CV au format Markdown. |
-| `docs.md` | Le présent fichier : il explique les choix techniques, outils et mise en forme. |
-| `assets/photo.jpg` | Photo de profil affichée dans le CV. |
-| `.gitignore`, `.gitattributes` | Fichiers de configuration Git |
+| `CV/index.md` | Le fichier principal contenant le CV au format Markdown. |
+| `justification.md` | Le présent fichier : il explique les choix techniques, outils et mise en forme. |
+| `images/photo.jpg` | Photo de profil affichée dans le CV. |
+| `.gitattributes` | Fichiers de configuration Git |
 | `LICENSE` | Licence du projet |
 
 ---
